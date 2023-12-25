@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b61b7f97223f43c7b18e7e7a36fb283e/artifacts
+end_time: 1703503013333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b61b7f97223f43c7b18e7e7a36fb283e
+run_name: thoughtful-quail-592
+run_uuid: b61b7f97223f43c7b18e7e7a36fb283e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703503013317
+status: 4
+tags: []
+user_id: Armaan

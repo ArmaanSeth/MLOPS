@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8821d6b043ce40a799d3b2e668c23247/artifacts
+end_time: 1703502350342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8821d6b043ce40a799d3b2e668c23247
+run_name: unruly-owl-277
+run_uuid: 8821d6b043ce40a799d3b2e668c23247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703502350309
+status: 4
+tags: []
+user_id: Armaan

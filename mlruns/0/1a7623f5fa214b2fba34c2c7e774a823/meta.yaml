@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1a7623f5fa214b2fba34c2c7e774a823/artifacts
+end_time: 1703503670496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7623f5fa214b2fba34c2c7e774a823
+run_name: unique-cod-144
+run_uuid: 1a7623f5fa214b2fba34c2c7e774a823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703503667258
+status: 4
+tags: []
+user_id: Armaan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5756dd24935e4cb0af5429326ee24f75/artifacts
+end_time: 1703502752962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5756dd24935e4cb0af5429326ee24f75
+run_name: gentle-rook-766
+run_uuid: 5756dd24935e4cb0af5429326ee24f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703502752931
+status: 4
+tags: []
+user_id: Armaan
